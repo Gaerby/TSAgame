@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"obj_goodHit","path":"objects/obj_goodHit/obj_goodHit.yy",},},
+    {"id":{"name":"obj_missedNote","path":"objects/obj_missedNote/obj_missedNote.yy",},},
     {"id":{"name":"obj_note","path":"objects/obj_note/obj_note.yy",},},
     {"id":{"name":"obj_perfectHit","path":"objects/obj_perfectHit/obj_perfectHit.yy",},},
     {"id":{"name":"obj_tileHitLeft","path":"objects/obj_tileHitLeft/obj_tileHitLeft.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_goodHit","path":"sprites/spr_goodHit/spr_goodHit.yy",},},
+    {"id":{"name":"spr_missedHit","path":"sprites/spr_missedHit/spr_missedHit.yy",},},
     {"id":{"name":"spr_note","path":"sprites/spr_note/spr_note.yy",},},
     {"id":{"name":"spr_perfectHit","path":"sprites/spr_perfectHit/spr_perfectHit.yy",},},
     {"id":{"name":"spr_tileHit","path":"sprites/spr_tileHit/spr_tileHit.yy",},},

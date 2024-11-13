@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_game","order":1,"path":"objects/obj_game/obj_game.yy",},
     {"name":"obj_goodHit","order":7,"path":"objects/obj_goodHit/obj_goodHit.yy",},
+    {"name":"obj_missedNote","order":8,"path":"objects/obj_missedNote/obj_missedNote.yy",},
     {"name":"obj_perfectHit","order":6,"path":"objects/obj_perfectHit/obj_perfectHit.yy",},
     {"name":"obj_tileHitLeft","order":2,"path":"objects/obj_tileHitLeft/obj_tileHitLeft.yy",},
     {"name":"obj_tileHitLeftMid","order":3,"path":"objects/obj_tileHitLeftMid/obj_tileHitLeftMid.yy",},
@@ -26,6 +27,7 @@
     {"name":"obj_tileHitRightMid","order":4,"path":"objects/obj_tileHitRightMid/obj_tileHitRightMid.yy",},
     {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_goodHit","order":4,"path":"sprites/spr_goodHit/spr_goodHit.yy",},
+    {"name":"spr_missedHit","order":5,"path":"sprites/spr_missedHit/spr_missedHit.yy",},
     {"name":"spr_perfectHit","order":3,"path":"sprites/spr_perfectHit/spr_perfectHit.yy",},
     {"name":"spr_tileHit","order":2,"path":"sprites/spr_tileHit/spr_tileHit.yy",},
   ],
